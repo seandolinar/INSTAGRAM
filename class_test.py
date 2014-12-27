@@ -1,4 +1,7 @@
 __author__ = 'seandolinar'
+__version__ = 1.0
+
+
 
 import __builtin__
 
