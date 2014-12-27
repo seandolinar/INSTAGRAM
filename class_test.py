@@ -1,7 +1,11 @@
 __author__ = 'seandolinar'
+<<<<<<< Updated upstream
 __version__ = 1.0
 
 
+=======
+__version__ = 2.0
+>>>>>>> Stashed changes
 
 import __builtin__
 
